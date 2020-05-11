@@ -1,0 +1,2 @@
+# 30DaysOfCode
+The #DevC30DaysOfCode organized by Developer Circles Yola The #DevC30DaysofCode challenge is going to start on the 25th of April 2020. The goal of this challenge is to encourage developers to learn new skills, get better at already acquired skills and also help newbies start developing instead of getting stuck with tutorials. Participants are expected to sacrifice at least one hour every day to learn how to code, write, design, etc.
